@@ -4,7 +4,7 @@ Just type below command in your terminal: <br />
 ```
 cd backend-api/ && yarn install 
 ```
-Then start backend by type:
+Then start backend, type:
 ```
 yarn run start
 ```
