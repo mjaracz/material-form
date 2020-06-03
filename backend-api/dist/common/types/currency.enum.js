@@ -1,0 +1,38 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Currency;
+(function (Currency) {
+    Currency[Currency["CAD"] = 0] = "CAD";
+    Currency[Currency["HKD"] = 1] = "HKD";
+    Currency[Currency["ISK"] = 2] = "ISK";
+    Currency[Currency["PHP"] = 3] = "PHP";
+    Currency[Currency["DKK"] = 4] = "DKK";
+    Currency[Currency["HUF"] = 5] = "HUF";
+    Currency[Currency["CZK"] = 6] = "CZK";
+    Currency[Currency["AUD"] = 7] = "AUD";
+    Currency[Currency["RON"] = 8] = "RON";
+    Currency[Currency["SEK"] = 9] = "SEK";
+    Currency[Currency["IDR"] = 10] = "IDR";
+    Currency[Currency["INR"] = 11] = "INR";
+    Currency[Currency["BRL"] = 12] = "BRL";
+    Currency[Currency["RUB"] = 13] = "RUB";
+    Currency[Currency["HRK"] = 14] = "HRK";
+    Currency[Currency["JPY"] = 15] = "JPY";
+    Currency[Currency["THB"] = 16] = "THB";
+    Currency[Currency["CHF"] = 17] = "CHF";
+    Currency[Currency["SGD"] = 18] = "SGD";
+    Currency[Currency["PLN"] = 19] = "PLN";
+    Currency[Currency["BGN"] = 20] = "BGN";
+    Currency[Currency["TRY"] = 21] = "TRY";
+    Currency[Currency["CNY"] = 22] = "CNY";
+    Currency[Currency["NOK"] = 23] = "NOK";
+    Currency[Currency["NZD"] = 24] = "NZD";
+    Currency[Currency["ZAR"] = 25] = "ZAR";
+    Currency[Currency["USD"] = 26] = "USD";
+    Currency[Currency["MXN"] = 27] = "MXN";
+    Currency[Currency["ILS"] = 28] = "ILS";
+    Currency[Currency["GBP"] = 29] = "GBP";
+    Currency[Currency["KRW"] = 30] = "KRW";
+    Currency[Currency["MYR"] = 31] = "MYR";
+})(Currency = exports.Currency || (exports.Currency = {}));
+//# sourceMappingURL=currency.enum.js.map
